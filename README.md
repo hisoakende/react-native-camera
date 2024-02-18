@@ -150,4 +150,4 @@ To report a security vulnerability, please use the
 
 Tidelift will coordinate the fix and disclosure.
 
-Super super project!!
+Super project!
